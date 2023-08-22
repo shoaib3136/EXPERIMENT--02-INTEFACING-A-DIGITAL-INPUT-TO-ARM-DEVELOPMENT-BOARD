@@ -84,7 +84,7 @@ void pushbutton(){
 ```
 
 ## Output  :
-```i.)LED OFF:                             ii.)LED ON(While blinking):                iii.)LED OFF(While blinking):```
+```i.)LED OFF:                           ii.)LED ON(While blinking):            iii.)LED OFF(While blinking):```
 
  
  ![WhatsApp Image 2023-08-22 at 14 12 31](https://github.com/shoaib3136/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/117919362/74ed8bf5-8466-406f-bec9-e4e14000b48c)
